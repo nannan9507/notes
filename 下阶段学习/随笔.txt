@@ -1,0 +1,45 @@
+css:
+postcss(浏览器兼容性)
+Normalize.css(浏览器兼容性)
+Flex(布局)
+
+
+
+js:
+D3.js(数据可视化)
+Rx.js(异步数据流编程)
+
+
+移动端:
+weex(Vue native)
+
+
+部署:
+webpack配置优化(part)
+
+
+
+server:
+nginx(服务器配置)
+PM2(服务器端部署)
+
+
+
+暂且搁置，未来看情况:
+React, Angular2.x, 3.x
+
+
+已点技能树
+Angular1.x, Vue1.x/2.x
+node.js开发
+插件: Ztree.js、
+
+已开发功能:
+爬虫（简易版本）、购物车、实时搜索栏、下拉勾选
+
+
+接触但不深入:
+java开发(spring)，python开发，socket.io，highcharts图表制作
+
+感兴趣学习:
+机器学习，大数据分析，爬虫
