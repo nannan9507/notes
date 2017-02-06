@@ -1,8 +1,11 @@
+html:
+mainfest离线存储
+webworker(浏览器多进程)
+indexDB(浏览器数据库)
+
 css:
 postcss(浏览器兼容性)
 Normalize.css(浏览器兼容性)
-Flex(布局)
-
 
 
 js:
@@ -30,16 +33,18 @@ React, Angular2.x, 3.x
 
 
 已点技能树
+jquery
 Angular1.x, Vue1.x/2.x
-node.js开发
-插件: Ztree.js、
+node.js(页面渲染, 路由，http请求)
+hybrid混合式开发
+Flex布局
 
 已开发功能:
-爬虫（简易版本）、购物车、实时搜索栏、下拉勾选
+爬虫（简易版本）、购物车、实时搜索栏、下拉勾选、highcharts图表制作、地图API、Ztree.js
+
 
 
 接触但不深入:
-java开发(spring)，python开发，socket.io，highcharts图表制作
-
+java开发(spring+springMVC+mybatis)，python开发，socket.io, 同构，增量
 感兴趣学习:
 机器学习，大数据分析，爬虫
